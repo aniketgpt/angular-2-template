@@ -1,5 +1,6 @@
 ![](http://i.imgur.com/CqXcsZ9.png)
 
+THIS UPDATE HAS BEEN RELEASED SUCCESSFULLY!!
 This is a base template for Angular 2. It contains the core files you will need when starting an Angular 2 project.
 To get started, follow the instructions below.
 
